@@ -36,7 +36,7 @@ const data = {
 };
 
 const config = {
-    type: 'pie',
+    type: 'bar',
     data: data,
 };
 
